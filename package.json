@@ -1,0 +1,19 @@
+{
+  "name": "first-npm-package",
+  "version": "1.0.0",
+  "description": "First npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vermarounak/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vermarounak/nodejs/issues"
+  },
+  "homepage": "https://github.com/vermarounak/nodejs#readme"
+}
